@@ -45,6 +45,10 @@ The funnel stages analyzed are:
 
 ---
 
+# Dashboard Preview
+
+![Dashboard](E-commerce_funnel_analysis_dashboard.png)
+
 ## Key Findings
 
 ### 1. Overall Conversion Rate
